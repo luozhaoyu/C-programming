@@ -1,0 +1,3 @@
+struct structtype {
+	char c;
+};
