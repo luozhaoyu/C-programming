@@ -1,0 +1,26 @@
+To build libevent, type
+
+$ ./configure && make
+
+Install as root via
+
+# make install
+
+You can run the regression tests by
+
+$ make verify
+
+Before, reporting any problems, please run the regression tests.
+
+Acknowledgements:
+-----------------
+
+The following people have helped with suggestions, ideas or code:
+
+  Nick Mathewson
+  Andrew Danforth
+  Shie Erlich
+  Mike Davis
+
+If I have forgotten your name, please contact me.
+
